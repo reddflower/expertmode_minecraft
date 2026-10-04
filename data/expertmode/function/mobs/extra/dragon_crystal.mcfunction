@@ -1,0 +1,15 @@
+summon minecraft:phantom ~ ~-5 ~ {Invulnerable: true ,Passengers:[{id:"minecraft:shulker",Passengers:[{id:"minecraft:end_crystal"}]}] }
+summon minecraft:phantom ~ ~-5 ~ {Invulnerable: true ,Passengers:[{id:"minecraft:shulker",Passengers:[{id:"minecraft:end_crystal"}]}] }
+summon minecraft:phantom ~ ~-5 ~ {Invulnerable: true ,Passengers:[{id:"minecraft:shulker",Passengers:[{id:"minecraft:end_crystal"}]}] }
+summon minecraft:phantom ~ ~-5 ~ {Invulnerable: true ,Passengers:[{id:"minecraft:shulker",Passengers:[{id:"minecraft:end_crystal"}]}] }
+summon minecraft:phantom ~ ~-5 ~ {Invulnerable: true ,Passengers:[{id:"minecraft:shulker",Passengers:[{id:"minecraft:end_crystal"}]}] }
+summon minecraft:phantom ~ ~-5 ~ {Invulnerable: true ,Passengers:[{id:"minecraft:shulker",Passengers:[{id:"minecraft:end_crystal"}]}] }
+summon minecraft:phantom ~ ~-5 ~ {Invulnerable: true ,Passengers:[{id:"minecraft:shulker",Passengers:[{id:"minecraft:end_crystal"}]}] }
+summon minecraft:phantom ~ ~-5 ~ {Invulnerable: true ,Passengers:[{id:"minecraft:shulker",Passengers:[{id:"minecraft:end_crystal"}]}] }
+summon minecraft:phantom ~ ~-5 ~ {Invulnerable: true ,Passengers:[{id:"minecraft:shulker",Passengers:[{id:"minecraft:end_crystal"}]}] }
+summon minecraft:phantom ~ ~-5 ~ {Invulnerable: true ,Passengers:[{id:"minecraft:shulker",Passengers:[{id:"minecraft:end_crystal"}]}] }
+summon minecraft:phantom ~ ~-5 ~ {Invulnerable: true ,Passengers:[{id:"minecraft:shulker",Passengers:[{id:"minecraft:end_crystal"}]}] }
+summon minecraft:phantom ~ ~-5 ~ {Invulnerable: true ,Passengers:[{id:"minecraft:shulker",Passengers:[{id:"minecraft:end_crystal"}]}] }
+summon minecraft:phantom ~ ~-5 ~ {Invulnerable: true ,Passengers:[{id:"minecraft:shulker",Passengers:[{id:"minecraft:end_crystal"}]}] }
+summon minecraft:phantom ~ ~-5 ~ {Invulnerable: true ,Passengers:[{id:"minecraft:shulker",Passengers:[{id:"minecraft:end_crystal"}]}] }
+summon minecraft:phantom ~ ~-5 ~ {Invulnerable: true ,Passengers:[{id:"minecraft:shulker",Passengers:[{id:"minecraft:end_crystal"}]}] }
