@@ -1,4 +1,4 @@
-scoreboard players set timer zdp.hardmode 1
+scoreboard players set timer zdp.hardmode 10
 
 schedule clear expertmode:mob_upload
 function expertmode:mob_upload
