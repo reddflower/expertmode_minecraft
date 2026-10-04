@@ -3,18 +3,18 @@
   "category": "equipment",
   "key": {
     "#": "minecraft:stick",
-    "X": "#minecraft:diamond_tool_materials"
+    "X": "#minecraft:iron_tool_materials"
   },
   "pattern": [
-    "XX",
-    "X#",
-    " #"
+    "XXX",
+    " # ",
+    " # "
   ],
   "result": {
     "count": 1,
-    "id": "minecraft:diamond_axe",
+    "id": "minecraft:iron_pickaxe",
     "components":{
-        "damage": 780
+        "damage": 125
 	}
   }
 }

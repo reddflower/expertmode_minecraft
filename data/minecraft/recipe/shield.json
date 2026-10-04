@@ -2,19 +2,19 @@
   "type": "minecraft:crafting_shaped",
   "category": "equipment",
   "key": {
-    "#": "minecraft:stick",
-    "X": "#minecraft:diamond_tool_materials"
+    "W": "#minecraft:wooden_tool_materials",
+    "o": "minecraft:iron_ingot"
   },
   "pattern": [
-    "XX",
-    "X#",
-    " #"
+    "WoW",
+    "WWW",
+    " W "
   ],
   "result": {
     "count": 1,
-    "id": "minecraft:diamond_axe",
+    "id": "minecraft:shield",
     "components":{
-        "damage": 780
+        "damage": 168
 	}
   }
 }

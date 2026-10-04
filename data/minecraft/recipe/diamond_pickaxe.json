@@ -6,13 +6,13 @@
     "X": "#minecraft:diamond_tool_materials"
   },
   "pattern": [
-    "XX",
-    "X#",
-    " #"
+    "XXX",
+    " # ",
+    " # "
   ],
   "result": {
     "count": 1,
-    "id": "minecraft:diamond_axe",
+    "id": "minecraft:diamond_pickaxe",
     "components":{
         "damage": 780
 	}

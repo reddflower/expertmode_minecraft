@@ -7,12 +7,12 @@
   },
   "pattern": [
     "XX",
-    "X#",
+    " #",
     " #"
   ],
   "result": {
     "count": 1,
-    "id": "minecraft:diamond_axe",
+    "id": "minecraft:diamond_hoe",
     "components":{
         "damage": 780
 	}

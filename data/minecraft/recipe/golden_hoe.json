@@ -3,18 +3,18 @@
   "category": "equipment",
   "key": {
     "#": "minecraft:stick",
-    "X": "#minecraft:diamond_tool_materials"
+    "X": "#minecraft:gold_tool_materials"
   },
   "pattern": [
     "XX",
-    "X#",
+    " #",
     " #"
   ],
   "result": {
     "count": 1,
-    "id": "minecraft:diamond_axe",
+    "id": "minecraft:golden_hoe",
     "components":{
-        "damage": 780
+        "damage": 15
 	}
   }
 }
